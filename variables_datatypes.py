@@ -1,4 +1,4 @@
-# Program: Variables and Data Types in Python
+# Variables and Data Types in Python
 
 # String
 name = "Sushree"
