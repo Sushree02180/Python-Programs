@@ -1,6 +1,6 @@
 # Program: User Input in Python
 
-print(f"\nWelcome, {name}! Hope you enjoy learning Python.")
+print(f"\nWelcome! Hope you enjoy learning Python.")
 
 # Taking input from the user
 name = input("Enter your name: ")
